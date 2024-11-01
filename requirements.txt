@@ -1,1 +1,3 @@
-tensorflow==2.17.0
+tensorflow
+matplotlib
+numpy
